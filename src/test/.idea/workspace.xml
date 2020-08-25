@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fb1c42b-c98c-4e38-95b6-e98b982d7768" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java/stepDefinitions/ProfileUpdateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/stepDefinitions/BlueSkyFormStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/stepDefinitions/BlueSkyFormStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/features/BlueSkyCitadelTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/resources/features/BlueSkyCitadelTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/BDD Test Suite/Login and Update Profile Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/BDD Test Suite/Login and Update Profile Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/Login and Update Profile Test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/BDD Test Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/test-classes/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../target/test-classes/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/test-classes/features/BlueSkyCitadelTest.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../../target/test-classes/features/BlueSkyCitadelTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/test-classes/stepDefinitions/BlueSkyFormStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../target/test-classes/stepDefinitions/BlueSkyFormStep.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ganOwhSmb8n2bWKCaGOS3BA4GV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="196" y="11" key="SettingsEditor" timestamp="1598361900715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="196" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598361900714" />
+  </component>
+</project>
