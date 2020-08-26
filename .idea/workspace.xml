@@ -29,28 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3aabbfa-8976-4bd1-9264-01fe15381a4c" name="Default Changelist" comment="New update 2">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BlueSkyCitadelCucumberSeleniumTestNG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UITEST07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/BlueSkyFormStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/ProfileUpdateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/BlueSkyCitadelTest.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/features/BlueSkyCitadelTest.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,26 +250,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="493" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598349870405" />
-    <state width="1306" height="322" key="GridCell.Tab.0.bottom" timestamp="1598361908616">
+    <state width="1306" height="221" key="GridCell.Tab.0.bottom" timestamp="1598391305275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598124612644" />
-    <state width="1306" height="322" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598361908616" />
-    <state width="1306" height="322" key="GridCell.Tab.0.center" timestamp="1598361908616">
+    <state width="1306" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598391305275" />
+    <state width="1306" height="221" key="GridCell.Tab.0.center" timestamp="1598391305275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598124612643" />
-    <state width="1306" height="322" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598361908616" />
-    <state width="1306" height="322" key="GridCell.Tab.0.left" timestamp="1598361908616">
+    <state width="1306" height="221" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598391305275" />
+    <state width="1306" height="221" key="GridCell.Tab.0.left" timestamp="1598391305274">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598124612643" />
-    <state width="1306" height="322" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598361908616" />
-    <state width="1306" height="322" key="GridCell.Tab.0.right" timestamp="1598361908616">
+    <state width="1306" height="221" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598391305274" />
+    <state width="1306" height="221" key="GridCell.Tab.0.right" timestamp="1598391305275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598124612644" />
-    <state width="1306" height="322" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598361908616" />
+    <state width="1306" height="221" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598391305275" />
     <state width="1306" height="219" key="GridCell.Tab.1.bottom" timestamp="1598222287420">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -307,10 +286,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1306" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598222287419" />
-    <state x="287" y="99" key="Vcs.Push.Dialog.v2" timestamp="1598390925198">
+    <state x="287" y="99" key="Vcs.Push.Dialog.v2" timestamp="1598391277471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="287" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598390925198" />
+    <state x="287" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598391277471" />
     <state x="438" y="288" width="551" height="158" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1598349876709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
